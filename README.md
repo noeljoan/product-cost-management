@@ -73,6 +73,14 @@ Die Anwendung ist nun im Browser erreichbar unter:
 🔗 **[http://127.0.0.1:8000](http://127.0.0.1:8000)**
 
 ---
+## Screenshoot (Die Kosten und Materialien sind rein fiktiv.)
+
+![Anmeldung](anmeldung.png)
+Anmeldung
+![Daten-Grid](datengrid.png)
+Daten-Grid
+![Dashboard](dashboard.png)
+Dashboard
 
 ## 🔐 Standard-Zugangsdaten (Test-Modus)
 
