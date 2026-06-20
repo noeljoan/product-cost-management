@@ -75,12 +75,12 @@ Die Anwendung ist nun im Browser erreichbar unter:
 ---
 ## Screenshoot (Die Kosten und Materialien sind rein fiktiv.)
 
-![Anmeldung](anmeldung.png)
 Anmeldung
-![Daten-Grid](datengrid.png)
+![Anmeldung](anmeldung.png)
 Daten-Grid
-![Dashboard](dashboard.png)
+![Daten-Grid](datengrid.png)
 Dashboard
+![Dashboard](dashboard.png)
 
 ## 🔐 Standard-Zugangsdaten (Test-Modus)
 
