@@ -108,7 +108,7 @@ product-cost-management/
 │   ├── login.html              # Autarke, moderne Anmeldemaske
 │   ├── cost.html               # Kostenentwicklung (Tab-Ansicht)
 │   └── planpreis.html          # Planpreis-Auswertungen
-├── data.sqlite                 # Migrierte Access-Datenbank (11 MB)
+├── data.sqlite                 # Migrierte Access-Datenbank (350 MB)
 ├── requirements.txt            # Python Paket-Abhängigkeiten
 └── README.md                   # Projektdokumentation
 ```
