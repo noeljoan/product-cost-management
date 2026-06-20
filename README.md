@@ -119,4 +119,4 @@ Im Gegensatz zur alten Access-Anwendung sind lokale Desktop-Automatisierungen wi
 ## 📄 Lizenz & Autor
 
 - **Autor:** Copyright (C) Noel Joan - 2026. Alle Rechte vorbehalten.
-- **Lizenz:** MIT-Lizenz
+- **Lizenz:** [MIT-LICENSE](LICENSE)
