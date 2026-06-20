@@ -63,6 +63,9 @@ python migrate_from_access.py
 ```
 *(Dauer: ca. 10–30 Sekunden, bricht mit einer Erfolgsmeldung `Done.` ab).*
 
+Aufbau der SQL Datenbank
+![Diagramm](diagramm.png)
+
 ### 4. Anwendung starten
 Starten Sie den Uvicorn-Entwicklungsserver mit automatischem Reload bei Code-Änderungen:
 ```bash
